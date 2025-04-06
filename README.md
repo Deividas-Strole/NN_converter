@@ -9,16 +9,6 @@ Perfect for quick and on-the-go conversions with a clean and responsive UI.
 
 ---
 
-## 📱 Screenshots
-
-| Temperature Conversion | Weight Conversion |
-|------------------------|-------------------|
-| ![temp](screenshots/temp.png) | ![weight](screenshots/weight.png) |
-
-> *(Add screenshots in the `/screenshots` folder and name them `temp.png`, `weight.png` for the above to work)*
-
----
-
 ## 🚀 Features
 
 - 🔁 Convert in either direction (e.g., F → C or C → F)
