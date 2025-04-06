@@ -1,16 +1,44 @@
-# nn_converter
+# 🌡️⚖️ Temperature & Weight Converter App
 
-A new Flutter project.
+A simple and intuitive Flutter mobile app that allows users to convert between temperature and weight units:
 
-## Getting Started
+- 🌡️ **Fahrenheit (°F)** ↔ **Celsius (°C)**
+- ⚖️ **Ounces (oz)** ↔ **Grams (g)**
 
-This project is a starting point for a Flutter application.
+Perfect for quick and on-the-go conversions with a clean and responsive UI.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Temperature Conversion | Weight Conversion |
+|------------------------|-------------------|
+| ![temp](screenshots/temp.png) | ![weight](screenshots/weight.png) |
+
+> *(Add screenshots in the `/screenshots` folder and name them `temp.png`, `weight.png` for the above to work)*
+
+---
+
+## 🚀 Features
+
+- 🔁 Convert in either direction (e.g., F → C or C → F)
+- 🧮 Real-time conversion with a single tap
+- 🧹 Clear all fields with one button
+- 📱 Fully responsive Flutter UI
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- Flutter SDK (version 3.0+ recommended)
+- Android Studio or Xcode for emulator or device deployment
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/flutter-temp-weight-converter.git
+cd flutter-temp-weight-converter
+flutter pub get
+flutter run
